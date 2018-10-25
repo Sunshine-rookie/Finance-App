@@ -1,6 +1,5 @@
 # financeApp
 
-练习项目基本是用vue2和vue-router2来实现的，满多地方可以填坑的。欢迎交流学习，使用的页面完全来自“草根金融/宋江贷”APP，所以请勿用于商业或公司项目。/financeApp
 
 线上访问地址：[https://Sunshine-rookie.github.io/financeApp/dist/](https://Sunshine-rookie.github.io/financeApp/dist/)
 
@@ -16,9 +15,6 @@
 ```bash
 		npm install
 ```
-<!-- > 或去我的百度网盘获取rar压缩包[点击这个地址](http://pan.baidu.com/s/1mhQZenY) -->
-
-<!-- >【2017.03.03】这个rar压缩包已经不是最新了，如果继续使用的话，还需要执行一次npm install -->
 
 （3）开发，输入命令行
 ```bash
@@ -29,9 +25,6 @@
 ```bash
 		npm run build
 ```
-<!-- > 注意：【生产环境】在根目录config/index.js文件中build对象'assetsPublicPath'属性
-> 我填写的是我当前的线上资源需放置的地址：'https://Sunshine-rookie.github.io/financeApp/dist/'
-> （根据你的资源位置填写相应的值，默认值可能会出现生产环境资源404-url不正确的情况） -->
 
 
 
@@ -71,10 +64,3 @@ vuex指南开始：[http://vuex.vuejs.org/zh-cn/intro.html](http://vuex.vuejs.or
 ├── package.json             // 项目配置信息
 
 ```
-
-<!-- ## 项目截图 ## -->
-
-<!-- ![项目首页截图1](src/assets/effect/1.png)
-![项目首页截图2](src/assets/effect/2.png)
-![项目首页截图3](src/assets/effect/3.png)
-![项目首页截图4](src/assets/effect/4.png) -->
